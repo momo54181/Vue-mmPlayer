@@ -20,8 +20,8 @@ import { getVersion, setVersion } from '@/utils/storage'
 
 const VERSION_INFO = `<div class="mm-dialog-text text-left">
 版本号：${VERSION}（${process.env.VUE_APP_UPDATE_TIME}）<br/>
-你准备好520了吗？ <br>
-以后的花会更好看，不要止步于此。
+有对象了吗？<br>
+是不是每天都想赖在TA身边？
 </div>`
 
 export default {
